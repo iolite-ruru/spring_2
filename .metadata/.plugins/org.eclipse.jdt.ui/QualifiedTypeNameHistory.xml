@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Person"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.TestBean"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.DataBean"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.TestBean2"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.TestBean1"/>
+    <fullyQualifiedTypeName name="kr.hs.study.config.BeanConfigClass"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Employee"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Designer"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Developer"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Publisher"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedAnnotationTypes"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Novel"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Book"/>
+    <fullyQualifiedTypeName name="kr.hs.study.main.MainClass"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Magazine"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.Poet"/>
+</qualifiedTypeNameHistroy>

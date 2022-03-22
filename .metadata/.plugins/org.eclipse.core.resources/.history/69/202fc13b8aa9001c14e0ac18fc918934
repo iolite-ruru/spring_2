@@ -1,0 +1,10 @@
+package kr.hs.study.config;
+
+import kr.hs.study.beans.Designer;
+import kr.hs.study.beans.Employee;
+
+public class BeanConfigClass {
+	public Designer designer1() {
+		
+	}
+}

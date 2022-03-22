@@ -1,0 +1,17 @@
+package kr.hs.study.beans;
+
+public class TestBean {
+	private int a;
+	private double b;
+	private String c;
+	private DataBean d;
+	private DataBean e;
+	
+	public TestBean() {
+	
+	}
+	
+	public void Print() {
+		System.out.println();
+	}
+}

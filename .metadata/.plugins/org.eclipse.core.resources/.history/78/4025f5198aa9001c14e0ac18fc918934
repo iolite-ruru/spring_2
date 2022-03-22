@@ -1,0 +1,15 @@
+package kr.hs.study.beans;
+
+public class Designer implements Employee{
+
+	public void Checkin() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void Checkout() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

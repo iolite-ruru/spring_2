@@ -1,0 +1,19 @@
+package kr.hs.study.beans;
+
+public class Publisher implements Employee{
+	int checkinTime;
+	int checkoutTime;
+	
+	public Publisher(int checkinTime, int checkoutTime) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void Checkin() {
+		System.out.println("ÆÛºí¸®¼Å"+ checkinTime +"½Ã Ãâ±Ù\");
+	}
+
+	public void Checkout() {
+		System.out.println("ÆÛºí¸®¼Å 6½Ã Åð±Ù");
+	}
+
+}

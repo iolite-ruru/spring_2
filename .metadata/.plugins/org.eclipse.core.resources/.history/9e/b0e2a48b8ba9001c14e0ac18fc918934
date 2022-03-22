@@ -1,0 +1,20 @@
+package kr.hs.study.config;
+
+import kr.hs.study.beans.Designer;
+import kr.hs.study.beans.Developer;
+import kr.hs.study.beans.Publisher;
+
+@
+public class BeanConfigClass {
+	public Designer emp1() {
+		return new Designer();
+	}
+	
+	public Developer emp2() {
+		return new Developer();
+	}
+	
+	public Publisher emp3() {
+		return new Publisher();
+	}
+}

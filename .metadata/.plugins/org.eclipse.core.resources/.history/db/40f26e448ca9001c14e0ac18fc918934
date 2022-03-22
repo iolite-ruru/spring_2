@@ -1,0 +1,18 @@
+package kr.hs.study.beans;
+
+public class Designer implements Employee{
+	int 
+	
+	public Designer(int i, int j) {
+		
+	}
+
+	public void Checkin() {
+		System.out.println("디자이너 " + "시 출근");
+	}
+
+	public void Checkout() {
+		System.out.println("디자이너 10시 퇴근");
+	}
+	
+}
