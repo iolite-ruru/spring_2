@@ -3,8 +3,6 @@
     <fullyQualifiedTypeName name="kr.hs.study.beans.Person"/>
     <fullyQualifiedTypeName name="kr.hs.study.beans.TestBean"/>
     <fullyQualifiedTypeName name="kr.hs.study.beans.DataBean"/>
-    <fullyQualifiedTypeName name="kr.hs.study.beans.TestBean2"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="kr.hs.study.beans.TestBean1"/>
     <fullyQualifiedTypeName name="kr.hs.study.config.BeanConfigClass"/>
     <fullyQualifiedTypeName name="kr.hs.study.beans.Employee"/>
@@ -20,4 +18,6 @@
     <fullyQualifiedTypeName name="kr.hs.study.main.MainClass"/>
     <fullyQualifiedTypeName name="kr.hs.study.beans.Magazine"/>
     <fullyQualifiedTypeName name="kr.hs.study.beans.Poet"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="kr.hs.study.beans.TestBean2"/>
 </qualifiedTypeNameHistroy>

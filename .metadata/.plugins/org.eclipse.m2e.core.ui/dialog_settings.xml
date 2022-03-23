@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\_spring_2\XmlConfiguration\src\main\java\kr\hs\study\main\MainClass.java"/>
 			<item value="C:\_spring_2\SetterDIPrj\src\main\java\kr\hs\study\config\config.xml"/>
 			<item value="C:\_spring_2\spring2\src\main\java\kr\hs\study\main\MainClass.java"/>
 		</list>
@@ -45,12 +46,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="kr.hs.study.beans"/>
 			<item value="kr.hs.study"/>
+			<item value="kr.hs.study.beans"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="JavaDI"/>
 			<item value="Test0322-2"/>
 			<item value="Test0322"/>
 			<item value="XmlConfiguration"/>
