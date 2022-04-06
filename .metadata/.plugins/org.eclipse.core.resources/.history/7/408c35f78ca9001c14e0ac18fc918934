@@ -1,7 +1,0 @@
-package kr.hs.study.beans;
-
-public class Magazine {
-	private String author;
-	private String title;
-	private int price;
-}

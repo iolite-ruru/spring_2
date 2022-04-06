@@ -1,7 +1,0 @@
-package kr.hs.study.beans;
-
-public interface Employee {
-	public int d;
-	public void Checkin();
-	public void Checkout();
-}
